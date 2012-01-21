@@ -1,0 +1,129 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:Cabin.cs" caret="0" fromTop="0" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:ObjectScopeProvider1.cs" caret="0" fromTop="0" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:DoorType.cs" caret="0" fromTop="0" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:DoorPositionOption.cs" caret="0" fromTop="0" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:DoorOpeningOption.cs" caret="0" fromTop="0" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:DoorMaterial.cs" caret="0" fromTop="0" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:DoorHardwareType.cs" caret="0" fromTop="0" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:DoorHardwareSubType.cs" caret="0" fromTop="0" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:Door.cs" caret="0" fromTop="0" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:CabinType.cs" caret="0" fromTop="0" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:CabinQuote.cs" caret="0" fromTop="0" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:CabinName.cs" caret="207" fromTop="10" />
+      <File id="9FC792E9-D396-4C7A-8DA9-B910A302840B/f:Program.cs" caret="109" fromTop="6" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:Cabin.cs" caret="263" fromTop="6" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:CabinType.cs" caret="142" fromTop="4" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:Cabin.cs" caret="248" fromTop="14" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:Cabin.cs" caret="148" fromTop="10" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:Cabin.cs" caret="1263" fromTop="34" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:Cabin.cs" caret="253" fromTop="10" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:Cabin.cs" caret="373" fromTop="16" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:Cabin.cs" caret="1266" fromTop="31" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:Door.cs" caret="514" fromTop="16" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:DoorMaterial.cs" caret="130" fromTop="4" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:Door.cs" caret="338" fromTop="11" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:DoorOpeningOption.cs" caret="150" fromTop="4" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:DoorType.cs" caret="141" fromTop="4" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:DoorPositionOption.cs" caret="151" fromTop="4" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:DoorHardwareType.cs" caret="150" fromTop="4" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:DoorHardwareSubType.cs" caret="153" fromTop="4" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:Door.cs" caret="427" fromTop="14" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:CabinName.cs" caret="101" fromTop="5" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:CabinQuote.cs" caret="67" fromTop="4" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:CabinType.cs" caret="66" fromTop="4" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:Door.cs" caret="66" fromTop="4" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:DoorHardwareSubType.cs" caret="66" fromTop="4" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:DoorHardwareType.cs" caret="69" fromTop="5" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:DoorMaterial.cs" caret="84" fromTop="5" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:DoorOpeningOption.cs" caret="67" fromTop="4" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:DoorPositionOption.cs" caret="58" fromTop="4" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:DoorType.cs" caret="66" fromTop="4" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:CabinName.cs" caret="300" fromTop="15" />
+      <File id="1BB8260A-CE4B-48C7-A84D-E32B442371AE/f:CabinName.cs" caret="207" fromTop="10" />
+      <File id="9FC792E9-D396-4C7A-8DA9-B910A302840B/f:Program.cs" caret="109" fromTop="6" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="38" />
+      <Item value="string" priority="18" />
+      <Item value="double" priority="2" />
+      <Item value="Cabin`0" priority="3" />
+      <Item value="CabinQuote`0" priority="0" />
+      <Item value="new" priority="4" />
+      <Item value="CabinName`0" priority="2" />
+      <Item value="CabinName" priority="4" />
+      <Item value="return" priority="2" />
+      <Item value="null" priority="1" />
+      <Item value="value" priority="0" />
+      <Item value="var" priority="1" />
+      <Item value="ObjectScopeProvider1`0" priority="0" />
+      <Item value="private" priority="0" />
+      <Item value="from" priority="0" />
+      <Item value="scope" priority="0" />
+      <Item value="where" priority="0" />
+      <Item value="c" priority="1" />
+      <Item value="select" priority="0" />
+      <Item value="if" priority="0" />
+      <Item value="Cabinnames" priority="1" />
+      <Item value="CabinType`0" priority="2" />
+      <Item value="Type" priority="0" />
+      <Item value="CabinType" priority="0" />
+      <Item value="Cabintypes" priority="0" />
+      <Item value="List&lt;CabinType&gt;" priority="0" />
+      <Item value="DoorMaterial`0" priority="0" />
+      <Item value="DoorOpeningOption`0" priority="0" />
+      <Item value="DoorType`0" priority="0" />
+      <Item value="DoorPositionOption`0" priority="0" />
+      <Item value="DoorHardwareType`0" priority="0" />
+      <Item value="DoorHardwareSubType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DormaDL.ObjectScopeProvider1">
+      <Item value="GetNewObjectScope`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Telerik.OpenAccess.IObjectScope">
+      <Item value="GetOqlQuery`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Telerik.OpenAccess.Query`1">
+      <Item value="ExecuteEnumerable`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DormaDL.CabinName">
+      <Item value="Name" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Equals`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToList`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

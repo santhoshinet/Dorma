@@ -1,0 +1,7 @@
+C:\Users\Santhosh\Desktop\Dorma\Dorma\bin\Dorma.dll
+C:\Users\Santhosh\Desktop\Dorma\Dorma\bin\Dorma.pdb
+C:\Users\Santhosh\Desktop\Dorma\Dorma\bin\EntityFramework.dll
+C:\Users\Santhosh\Desktop\Dorma\Dorma\bin\EntityFramework.xml
+C:\Users\Santhosh\Desktop\Dorma\Dorma\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Santhosh\Desktop\Dorma\Dorma\obj\Debug\Dorma.dll
+C:\Users\Santhosh\Desktop\Dorma\Dorma\obj\Debug\Dorma.pdb

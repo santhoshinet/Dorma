@@ -1,0 +1,5 @@
+C:\Users\Santhosh\Desktop\Dorma\DormaDL\DormaDLSeeds\bin\Debug\DormaDLSeeds.exe
+C:\Users\Santhosh\Desktop\Dorma\DormaDL\DormaDLSeeds\bin\Debug\DormaDLSeeds.pdb
+C:\Users\Santhosh\Desktop\Dorma\DormaDL\DormaDLSeeds\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Santhosh\Desktop\Dorma\DormaDL\DormaDLSeeds\obj\Debug\DormaDLSeeds.exe
+C:\Users\Santhosh\Desktop\Dorma\DormaDL\DormaDLSeeds\obj\Debug\DormaDLSeeds.pdb
